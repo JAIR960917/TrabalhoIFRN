@@ -1,0 +1,120 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+body,html{
+	width: 100%;
+	height: 100%;
+	
+}
+
+section{
+	text-align: center;
+}
+/*Página Início*/
+
+.paises div{
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	width: 25%;
+}
+
+header{
+	text-align: center;
+	padding: 15px;
+}
+.paises img{
+	width: 33%;
+}
+
+/*Brasil*/
+.voltar{
+	text-align: left;
+}
+
+.goleirasbr{
+	width: 100%;
+}
+
+.goleirasbr div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 20px 130px;
+}
+
+.defensorasbr div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 20px 130px;
+}
+
+.meiobr div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 20px 130px;
+}
+
+.atacantebr div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 40px 130px;
+}
+
+.tecnicabr h2{
+	padding: 10px;
+}
+
+.final{
+	margin-bottom: 30px;
+}
+
+
+/*Nova Zelandia*/
+.goleirasNZ{
+	width: 100%;
+}
+
+.goleirasNZ div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 20px 130px;
+}
+
+.defensorasNZ div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 20px 130px;
+}
+
+.meioNZ div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 20px 130px;
+}
+
+.atacanteNZ div{
+	width: 100px;
+	margin-right: 0;
+	display: inline-block;
+	padding: 40px 130px;
+}
+
+.tecnicaNZ h2{
+	padding: 10px;
+}
+
+.final{
+	margin-bottom: 30px;
+}
